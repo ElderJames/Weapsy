@@ -38,15 +38,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weapsy.Tests.Factories", "t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weapsy.Services.Tests", "test\Weapsy.Services.Tests\Weapsy.Services.Tests.csproj", "{D34B8779-DAB7-4311-BF1F-EEF2098052D6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weapsy.Infrastructure", "src\Weapsy.Infrastructure\Weapsy.Infrastructure.csproj", "{649C3397-8AE5-4CE5-85D5-06765EB9F65A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weapsy.Framework", "src\Weapsy.Framework\Weapsy.Framework.csproj", "{649C3397-8AE5-4CE5-85D5-06765EB9F65A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weapsy.Infrastructure.Tests", "test\Weapsy.Infrastructure.Tests\Weapsy.Infrastructure.Tests.csproj", "{D48CB11C-AC88-4486-9E5F-1C597EE0F38D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weapsy.Framework.Tests", "test\Weapsy.Framework.Tests\Weapsy.Framework.Tests.csproj", "{D48CB11C-AC88-4486-9E5F-1C597EE0F38D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weapsy.Data", "src\Weapsy.Data\Weapsy.Data.csproj", "{E3396940-7592-4BBA-AD44-87DDD930F069}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{72F87378-93E9-4893-BE86-61A6723DD348}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{078B4602-971D-4652-93B9-94F2C4380A8C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{078B4602-971D-4652-93B9-94F2C4380A8C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{DB8FBD26-B48B-4B13-A4FE-F666194245AB}"
 EndProject
@@ -54,7 +54,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Text", "Text", "{406119AC-E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{ADF8C7D6-E4EE-4E8A-91D2-143603474EC7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{C8FD0F0C-9C57-4AEC-887D-3105CA866533}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{C8FD0F0C-9C57-4AEC-887D-3105CA866533}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weapsy.Apps.Text", "src\Apps\Weapsy.Apps.Text\Weapsy.Apps.Text.csproj", "{6B8A8E51-7EAA-4A4D-8C78-1075991AD711}"
 EndProject

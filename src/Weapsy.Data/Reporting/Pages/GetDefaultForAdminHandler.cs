@@ -2,8 +2,8 @@
 using System.Threading.Tasks;
 using Weapsy.Domain.Languages;
 using Weapsy.Domain.Pages;
-using Weapsy.Infrastructure.Identity;
-using Weapsy.Infrastructure.Queries;
+using Weapsy.Framework.Identity;
+using Weapsy.Framework.Queries;
 using Weapsy.Reporting.Pages;
 using Weapsy.Reporting.Pages.Queries;
 using System.Linq;

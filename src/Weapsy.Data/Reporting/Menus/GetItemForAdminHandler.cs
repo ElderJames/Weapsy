@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
 using Weapsy.Domain.Languages;
 using Weapsy.Domain.Menus;
-using Weapsy.Infrastructure.Identity;
-using Weapsy.Infrastructure.Queries;
+using Weapsy.Framework.Identity;
+using Weapsy.Framework.Queries;
 using Weapsy.Reporting.Menus;
 using Weapsy.Reporting.Menus.Queries;
 using System.Linq;

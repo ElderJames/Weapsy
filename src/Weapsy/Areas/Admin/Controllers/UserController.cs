@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Weapsy.Data.Entities;
 using Weapsy.Mvc.Context;
 using Weapsy.Mvc.Controllers;
-using Weapsy.Infrastructure.Queries;
+using Weapsy.Framework.Queries;
 using Weapsy.Reporting.Users.Queries;
 using Weapsy.Reporting.Users;
 

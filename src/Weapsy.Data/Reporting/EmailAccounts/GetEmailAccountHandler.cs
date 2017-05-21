@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using AutoMapper;
 using Weapsy.Domain.EmailAccounts;
-using Weapsy.Infrastructure.Queries;
+using Weapsy.Framework.Queries;
 using Weapsy.Reporting.EmailAccounts;
 using Weapsy.Reporting.EmailAccounts.Queries;
 using Microsoft.EntityFrameworkCore;

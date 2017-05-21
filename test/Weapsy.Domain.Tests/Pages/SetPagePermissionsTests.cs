@@ -6,7 +6,7 @@ using Weapsy.Domain.Pages.Commands;
 using Weapsy.Domain.Pages.Events;
 using System.Collections.Generic;
 using Weapsy.Tests.Factories;
-using Weapsy.Infrastructure.Identity;
+using Weapsy.Framework.Identity;
 
 namespace Weapsy.Domain.Tests.Pages
 {

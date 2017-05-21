@@ -13,7 +13,7 @@ using Weapsy.Domain.Pages.Commands;
 using Weapsy.Domain.Pages.Events;
 using Weapsy.Domain.Pages.Handlers;
 using Weapsy.Tests.Factories;
-using Weapsy.Infrastructure.Events;
+using Weapsy.Framework.Events;
 
 namespace Weapsy.Domain.Tests.Pages.Handlers
 {

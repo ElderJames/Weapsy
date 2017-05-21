@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using Weapsy.Domain.Pages;
-using Weapsy.Infrastructure.Queries;
+using Weapsy.Framework.Queries;
 using Weapsy.Reporting.Pages.Queries;
 using Microsoft.EntityFrameworkCore;
 

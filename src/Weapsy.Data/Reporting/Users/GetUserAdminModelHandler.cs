@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Weapsy.Infrastructure.Queries;
+using Weapsy.Framework.Queries;
 using System.Threading.Tasks;
 using Weapsy.Reporting.Users.Queries;
 using Weapsy.Reporting.Users;

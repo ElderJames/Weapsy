@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using AutoMapper;
 using Weapsy.Domain.Themes;
-using Weapsy.Infrastructure.Queries;
+using Weapsy.Framework.Queries;
 using Weapsy.Reporting.Themes;
 using Weapsy.Reporting.Themes.Queries;
 using Microsoft.EntityFrameworkCore;

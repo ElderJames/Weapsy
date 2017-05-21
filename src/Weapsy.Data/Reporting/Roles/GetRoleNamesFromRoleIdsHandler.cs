@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
-using Weapsy.Infrastructure.Queries;
+using Weapsy.Framework.Queries;
 using System.Threading.Tasks;
 using Weapsy.Reporting.Roles.Queries;
 using System.Collections.Generic;
-using Weapsy.Infrastructure.Identity;
+using Weapsy.Framework.Identity;
 using Weapsy.Data.Entities;
 using Microsoft.AspNetCore.Identity;
 
